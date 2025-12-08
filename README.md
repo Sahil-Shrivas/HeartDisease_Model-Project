@@ -111,7 +111,8 @@ The dataset contains **303 patient records** with **14 attributes** related to h
 
 ## 📬 Contact
 
-Author: Sahil Shrivas
-GitHub: https://github.com/Sahil-Shrivas
+- Author: Sahil Shrivas
+- GitHub: https://github.com/Sahil-Shrivas
 
 ---
+
