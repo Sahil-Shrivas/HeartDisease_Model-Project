@@ -76,14 +76,14 @@
 
 import streamlit as st
 import pandas as pd
-import joblib
+import joblib as jb
 
 # ----------------------------
 # Load Model, Scaler, Columns
 # ----------------------------
-model = joblib.load("knn_heart_model.pkl")
-scaler = joblib.load("heart_scaler.pkl")
-expected_columns = joblib.load("heart_columns.pkl")
+model = jb.load("knn_heart_model.pkl")
+scaler = jb.load("heart_scaler.pkl")
+expected_columns = jb.load("heart_columns.pkl")
 
 # ----------------------------
 # Streamlit Page Config
