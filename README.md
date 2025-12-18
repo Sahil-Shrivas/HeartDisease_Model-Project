@@ -109,10 +109,25 @@ The dataset contains **303 patient records** with **14 attributes** related to h
 
 ---
 
+## Screenshot
+
+![alt text](https://raw.githubusercontent.com/Sahil-Shrivas/HeartDisease_Model-Project/refs/heads/main/Screenshot%202025-12-18%20204501.png)
+![alt text](https://raw.githubusercontent.com/Sahil-Shrivas/HeartDisease_Model-Project/refs/heads/main/Screenshot%202025-12-18%20204511.png)
+![alt text](https://raw.githubusercontent.com/Sahil-Shrivas/HeartDisease_Model-Project/refs/heads/main/Screenshot%202025-12-18%20204526.png)
+![alt text](https://raw.githubusercontent.com/Sahil-Shrivas/HeartDisease_Model-Project/refs/heads/main/Screenshot%202025-12-18%20204534.png)
+![alt text](https://raw.githubusercontent.com/Sahil-Shrivas/HeartDisease_Model-Project/refs/heads/main/Screenshot%202025-12-18%20204543.png)
+![alt text](https://raw.githubusercontent.com/Sahil-Shrivas/HeartDisease_Model-Project/refs/heads/main/Screenshot%202025-12-18%20204553.png)
+![alt text](https://raw.githubusercontent.com/Sahil-Shrivas/HeartDisease_Model-Project/refs/heads/main/Screenshot%202025-12-18%20204602.png)
+![alt text](https://raw.githubusercontent.com/Sahil-Shrivas/HeartDisease_Model-Project/refs/heads/main/Screenshot%202025-12-18%20205024.png)
+![alt text](https://raw.githubusercontent.com/Sahil-Shrivas/HeartDisease_Model-Project/refs/heads/main/Screenshot%202025-12-18%20205059.png)
+
+---
+
 ## 📬 Contact
 
 - Author: Sahil Shrivas
 - GitHub: https://github.com/Sahil-Shrivas
 
 ---
+
 
